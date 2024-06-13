@@ -1,7 +1,10 @@
 # MERN-Login
 
+// install all modules
+// npm install
+
 // install dotenv 
-npm i dotenv
+//npm i dotenv
 
 // assign the APP_PORT and JWT_SECRET 
 
